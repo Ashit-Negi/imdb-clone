@@ -1,0 +1,421 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "backdrop_path": "/oPUOpnl3pqD8wuidjfUn17mO1yA.jpg",
+      "id": 698687,
+      "title": "Transformers One",
+      "original_title": "Transformers One",
+      "overview": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but once were friends bonded like brothers who changed the fate of Cybertron forever.",
+      "poster_path": "/iRCgqpdVE4wyLQvGYU3ZP7pAtUc.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        878,
+        12,
+        10751,
+        28
+      ],
+      "popularity": 614.305,
+      "release_date": "2024-09-11",
+      "video": false,
+      "vote_average": 7.8,
+      "vote_count": 219
+    },
+    {
+      "backdrop_path": "/iAflChQCzezzqPn0KjwX7GtG74m.jpg",
+      "id": 1091181,
+      "title": "Family Pack",
+      "original_title": "Loups-Garous",
+      "overview": "After discovering a mysterious card game, a family is thrust back in time to a medieval village where they must fend off dangerous werewolves each night.",
+      "poster_path": "/uL1dR0L65GZgy3h2gvZcxDu0bRG.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "fr",
+      "genre_ids": [
+        12,
+        35,
+        14,
+        28
+      ],
+      "popularity": 38.09,
+      "release_date": "2024-10-01",
+      "video": false,
+      "vote_average": 5.7,
+      "vote_count": 9
+    },
+    {
+      "backdrop_path": "/3V4kLQg0kSqPLctI5ziYWabAZYF.jpg",
+      "id": 912649,
+      "title": "Venom: The Last Dance",
+      "original_title": "Venom: The Last Dance",
+      "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+      "poster_path": "/k42Owka8v91trK1qMYwCQCNwJKr.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        878,
+        12
+      ],
+      "popularity": 1678.855,
+      "release_date": "2024-10-22",
+      "video": false,
+      "vote_average": 7.2,
+      "vote_count": 21
+    },
+    {
+      "backdrop_path": "/1FBHAQnq7Bs3djBmaNkfdVbnCUE.jpg",
+      "id": 1124641,
+      "title": "Classified",
+      "original_title": "Classified",
+      "overview": "Operating alone in the field for more than 20 years, a CIA hitman uses the \"Help Wanted\" section of the newspapers to get his orders from the Agency. His long-lost daughter, now a UK MI6 analyst, tracks him down to deliver shocking news: his CIA boss has been dead for years and the division long since shut down. Together, they set out to discover whose orders he's been executing.",
+      "poster_path": "/o5zHDxx9aGtg0bK9gVghik8ohYb.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        53
+      ],
+      "popularity": 44.282,
+      "release_date": "2024-09-19",
+      "video": false,
+      "vote_average": 5.0,
+      "vote_count": 9
+    },
+    {
+      "backdrop_path": "/417tYZ4XUyJrtyZXj7HpvWf1E8f.jpg",
+      "id": 1184918,
+      "title": "The Wild Robot",
+      "original_title": "The Wild Robot",
+      "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+      "poster_path": "/wTnV3PCVW5O92JMrFvvrRcV39RU.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        16,
+        878,
+        10751
+      ],
+      "popularity": 5200.959,
+      "release_date": "2024-09-12",
+      "video": false,
+      "vote_average": 8.663,
+      "vote_count": 1294
+    },
+    {
+      "backdrop_path": "/7h6TqPB3ESmjuVbxCxAeB1c9OB1.jpg",
+      "id": 933260,
+      "title": "The Substance",
+      "original_title": "The Substance",
+      "overview": "A fading celebrity decides to usea black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+      "poster_path": "/lqoMzCcZYEFK729d6qzt349fB4o.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        18,
+        878
+      ],
+      "popularity": 3159.484,
+      "release_date": "2024-09-07",
+      "video": false,
+      "vote_average": 7.325,
+      "vote_count": 804
+    },
+    {
+      "backdrop_path": "/yDHYTfA3R0jFYba16jBB1ef8oIt.jpg",
+      "id": 533535,
+      "title": "Deadpool \u0026 Wolverine",
+      "original_title": "Deadpool \u0026 Wolverine",
+      "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+      "poster_path": "/8cdWjvZQUExUUTzyp4t6EDMubfO.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        35,
+        878
+      ],
+      "popularity": 2203.301,
+      "release_date": "2024-07-24",
+      "video": false,
+      "vote_average": 7.7,
+      "vote_count": 4724
+    },
+    {
+      "backdrop_path": "/9SSEUrSqhljBMzRe4aBTh17rUaC.jpg",
+      "id": 945961,
+      "title": "Alien: Romulus",
+      "original_title": "Alien: Romulus",
+      "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+      "poster_path": "/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        27
+      ],
+      "popularity": 3904.571,
+      "release_date": "2024-08-13",
+      "video": false,
+      "vote_average": 7.3,
+      "vote_count": 1809
+    },
+    {
+      "backdrop_path": "/fNylhsI3u6NmTxeanFPDEwvT9GS.jpg",
+      "id": 835113,
+      "title": "Woman of the Hour",
+      "original_title": "Woman of the Hour",
+      "overview": "An aspiring actress crosses paths with a prolific serial killer in '70s LA when they're cast on an episode of \"The Dating Game.\"",
+      "poster_path": "/nc9ZqrJFbcUdlMg9lxXXtJb24jU.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        80,
+        18,
+        53
+      ],
+      "popularity": 331.195,
+      "release_date": "2024-10-03",
+      "video": false,
+      "vote_average": 6.702,
+      "vote_count": 168
+    },
+    {
+      "backdrop_path": "/cVg97LOJgrDZJ7bVmjU2KsGRYnU.jpg",
+      "id": 1100782,
+      "title": "Smile 2",
+      "original_title": "Smile 2",
+      "overview": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+      "poster_path": "/aE85MnPIsSoSs3978Noo16BRsKN.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        9648
+      ],
+      "popularity": 741.034,
+      "release_date": "2024-10-16",
+      "video": false,
+      "vote_average": 7.121,
+      "vote_count": 124
+    },
+    {
+      "backdrop_path": "/wFn1yJnuMOh8M3EonYchPH5XyjC.jpg",
+      "id": 1308546,
+      "title": "Carved",
+      "original_title": "Carved",
+      "overview": "On Halloween 1993, 2 years after a deadly nuclear spill, the staff of a historic pioneer village attraction must work together to survive the attack of a monstrous killer pumpkin set on revenge.",
+      "poster_path": "/9DKH4j80eR4qAcGDoShlUO7D0Is.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        35
+      ],
+      "popularity": 60.168,
+      "release_date": "2024-10-21",
+      "video": false,
+      "vote_average": 4.9,
+      "vote_count": 12
+    },
+    {
+      "backdrop_path": "/eQEgKIRF7KeVGBQ8IYcklpU8RPf.jpg",
+      "id": 1034541,
+      "title": "Terrifier 3",
+      "original_title": "Terrifier 3",
+      "overview": "Five years after surviving Art the Clown's Halloween massacre, Sienna and Jonathan are still struggling to rebuild their shattered lives. As the holiday season approaches, they try to embrace the Christmas spirit and leave the horrors of the past behind. But just when they think they're safe, Art returns, determined to turn their holiday cheer into a new nightmare. The festive season quickly unravels as Art unleashes his twisted brand of terror, proving that no holiday is safe.",
+      "poster_path": "/63xYQj1BwRFielxsBDXvHIJyXVm.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        27,
+        53
+      ],
+      "popularity": 1681.93,
+      "release_date": "2024-10-09",
+      "video": false,
+      "vote_average": 7.062,
+      "vote_count": 105
+    },
+    {
+      "backdrop_path": "/pvE13VXj7WvTDYkng3tTWOTO6Nq.jpg",
+      "id": 1151949,
+      "title": "The Shadow Strays",
+      "original_title": "The Shadow Strays",
+      "overview": "Skilled in the art of killing, a young assassin defies her mentor to save a boy from a ruthless crime syndicate — and she'll destroy anyone in her path.",
+      "poster_path": "/2pkkPgpubdHaFc5kptKgr57Y04W.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "id",
+      "genre_ids": [
+        28,
+        80,
+        53
+      ],
+      "popularity": 179.018,
+      "release_date": "2024-09-10",
+      "video": false,
+      "vote_average": 7.321,
+      "vote_count": 67
+    },
+    {
+      "backdrop_path": "/xi1VSt3DtkevUmzCx2mNlCoDe74.jpg",
+      "id": 917496,
+      "title": "Beetlejuice Beetlejuice",
+      "original_title": "Beetlejuice Beetlejuice",
+      "overview": "After a family tragedy, three generations of the Deetz family return home to Winter River. Still haunted by Betelgeuse, Lydia's life is turned upside down when her teenage daughter, Astrid, accidentally opens the portal to the Afterlife.",
+      "poster_path": "/kKgQzkUCnQmeTPkyIwHly2t6ZFI.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        35,
+        14,
+        27
+      ],
+      "popularity": 1352.254,
+      "release_date": "2024-09-04",
+      "video": false,
+      "vote_average": 7.21,
+      "vote_count": 1489
+    },
+    {
+      "backdrop_path": "/VuukZLgaCrho2Ar8Scl9HtV3yD.jpg",
+      "id": 335983,
+      "title": "Venom",
+      "original_title": "Venom",
+      "overview": "Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.",
+      "poster_path": "/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        878,
+        28
+      ],
+      "popularity": 419.629,
+      "release_date": "2018-09-28",
+      "video": false,
+      "vote_average": 6.8,
+      "vote_count": 15746
+    },
+    {
+      "backdrop_path": "/reNf6GBzOe48l9WEnFOxXgW56Vg.jpg",
+      "id": 889737,
+      "title": "Joker: Folie à Deux",
+      "original_title": "Joker: Folie à Deux",
+      "overview": "While struggling with his dual identity, Arthur Fleck not only stumbles upon true love, but also finds the music that's always been inside him.",
+      "poster_path": "/aciP8Km0waTLXEYf5ybFK5CSUxl.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        80,
+        53
+      ],
+      "popularity": 660.691,
+      "release_date": "2024-10-01",
+      "video": false,
+      "vote_average": 5.806,
+      "vote_count": 910
+    },
+    {
+      "backdrop_path": "/yjPXIgY3QoHe8Kt8nEJCz97UF3q.jpg",
+      "id": 832964,
+      "title": "Lee",
+      "original_title": "Lee",
+      "overview": "The true story of photographer Elizabeth 'Lee' Miller, a fashion model who became an acclaimed war correspondent for Vogue magazine during World War II.",
+      "poster_path": "/ffw51hmecHHdTWihncJZgmp9XH2.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        36,
+        10752
+      ],
+      "popularity": 221.288,
+      "release_date": "2024-09-12",
+      "video": false,
+      "vote_average": 7.084,
+      "vote_count": 77
+    },
+    {
+      "backdrop_path": "/8mjYwWT50GkRrrRdyHzJorfEfcl.jpg",
+      "id": 558449,
+      "title": "Gladiator II",
+      "original_title": "Gladiator II",
+      "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+      "poster_path": "/3d52MgDuO1QNR5oVpBsdQv5JX8.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        28,
+        12
+      ],
+      "popularity": 159.151,
+      "release_date": "2024-11-13",
+      "video": false,
+      "vote_average": 0.0,
+      "vote_count": 0
+    },
+    {
+      "backdrop_path": "/mBFJTx5vZUIXFWLBS7VGYoeymMX.jpg",
+      "id": 1064213,
+      "title": "Anora",
+      "original_title": "Anora",
+      "overview": "Anora, a young sex worker from Brooklyn, gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as the parents set out for New York to get the marriage annulled.",
+      "poster_path": "/xXz6ScxPlLRzL3MtzceNY52Neuq.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18,
+        10749,
+        35
+      ],
+      "popularity": 201.225,
+      "release_date": "2024-10-11",
+      "video": false,
+      "vote_average": 6.7,
+      "vote_count": 19
+    },
+    {
+      "backdrop_path": "/oNXn7FAxd0mLz3P50vyqERKzQWR.jpg",
+      "id": 1113466,
+      "title": "Camera",
+      "original_title": "Camera",
+      "overview": "Oscar, a nine-year-old boy who is unable to speak, struggles to adapt in the small fishing town he has just moved to with his widowed, hard-working mother Evelyn. Because of a broken film format camera, an unlikely friendship develops between Oscar and kindly workshop owner Eric.",
+      "poster_path": "/eTxzRRVXIpCbztEBSHkyfqghenj.jpg",
+      "media_type": "movie",
+      "adult": false,
+      "original_language": "en",
+      "genre_ids": [
+        18
+      ],
+      "popularity": 2.969,
+      "release_date": "2024-07-23",
+      "video": false,
+      "vote_average": 9.5,
+      "vote_count": 2
+    }
+  ],
+  "total_pages": 500,
+  "total_results": 10000
+}  
